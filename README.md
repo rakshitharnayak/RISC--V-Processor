@@ -12,7 +12,7 @@ Here we are going to design the process using RISC V
 
 ### Solution:
 In this project we implement a 32-bit, RISC-V ISA based processor in verilog. The sub-modules that are used and their interaction with each other are shown in the following picture.
-To get a clear picture, the logic behind this processor please follow this [page](https://github.com/rakshitharnayak/RISC--V-Processor/wiki)
+To get a clear picture, the logic behind this processor please follow this [wikipage](https://github.com/rakshitharnayak/RISC--V-Processor/wiki)
 
 ![Copy of riscv_architecture](https://github.com/rakshitharnayak/RISC--V-Processor/assets/73732585/87496bb0-32a1-4d2c-a78d-d43ee45cd442)
 
