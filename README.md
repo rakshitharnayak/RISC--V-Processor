@@ -20,3 +20,5 @@ In this project we implement a 32-bit, RISC-V ISA based processor in verilog. Th
 ![MicrosoftTeams-image (7)](https://github.com/rakshitharnayak/RISC--V-Processor/assets/73732585/61503c28-4706-4a2b-a573-3c8609b4af15)
 
 
+### Tool used:
+EDA playground
